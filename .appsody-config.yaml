@@ -1,0 +1,3 @@
+id: "20200422000107.00678800"
+project-name: weg
+stack: docker.io/appsody/java-openliberty:0.2
